@@ -6,7 +6,7 @@
 
 <p><strong>Directory:</strong> Ostad/assignment1</p>
 
-<p><strong>Directory:</strong></p>
+<p><strong>Files:</strong></p>
 <ul>
     <li><strong>Task 1: Personal Information Page</strong></li>
     <li> - <i>personal_info.php</i>
